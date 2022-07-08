@@ -1,2 +1,2 @@
 # Object-Detection-and-YOLO-Implementations
-My implementation of some YOLO models.
+Implementation of some YOLO models.
